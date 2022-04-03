@@ -1,0 +1,15 @@
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/SF1361
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/SF1361.deps.json
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/SF1361.runtimeconfig.json
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/SF1361.dll
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/ref/SF1361.dll
+/home/beibarsov/csharp/SF1361/bin/Debug/net6.0/SF1361.pdb
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.csproj.AssemblyReference.cache
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.GeneratedMSBuildEditorConfig.editorconfig
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.AssemblyInfoInputs.cache
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.AssemblyInfo.cs
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.csproj.CoreCompileInputs.cache
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.dll
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/ref/SF1361.dll
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.pdb
+/home/beibarsov/csharp/SF1361/obj/Debug/net6.0/SF1361.genruntimeconfig.cache
